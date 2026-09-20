@@ -1,0 +1,6 @@
+{
+  "name": "TheRide-Driver",
+  "description": "Driver onboarding, KYC document verification, and rider assignment platform for TheRide.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

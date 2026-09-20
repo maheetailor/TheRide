@@ -1,0 +1,6 @@
+{
+  "name": "TheRide",
+  "description": "On-demand personal vehicle driver booking app with verified chauffeurs, real-time safety updates, and mandatory trip tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
